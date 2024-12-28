@@ -1,4 +1,4 @@
-
+/* WAP INPUT TWO NUMBER AND PRINT A TO THE POWER */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
