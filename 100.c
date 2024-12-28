@@ -1,3 +1,4 @@
+/*WAP TO INPUT TWO NUMBER AND PRINT ALL PRIME NUMBER BETWEEN THESE NUMBER*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
