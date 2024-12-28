@@ -1,4 +1,4 @@
-/* INPUT A NUMBER AND PRINT */
+/* INPUT A INTEGER NUMBER AND PRINT */
 #include<stdio.h>
 #include<conio.h>
 void main(){
