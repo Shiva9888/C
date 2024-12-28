@@ -1,4 +1,4 @@
-
+/* WAP ONE INTEGER, FLOATING , CHARCETER AND PRINT*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
