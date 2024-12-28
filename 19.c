@@ -1,3 +1,4 @@
+/* INPUT LENGHT AND BREDTH OF RECTANGLE AND PRINT AREA AND PAREMETER */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
