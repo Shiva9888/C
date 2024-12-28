@@ -1,4 +1,4 @@
-
+/* WAP INPUT A NUMBER AND PRINT SWUAR ROOT*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
