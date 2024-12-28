@@ -1,4 +1,4 @@
-
+/* WAP INPUT A CHARCATER AND PRINT*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
