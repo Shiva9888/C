@@ -1,4 +1,4 @@
-
+/* WAP TO INPUT A SIDE OF SQUARE AND PRINT AREA*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
